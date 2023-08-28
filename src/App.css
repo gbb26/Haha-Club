@@ -1,0 +1,44 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1.4rem;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+}
+
+.font-500 {
+  font-family: 'Amatic SC', cursive;
+  font-weight: 600;
+}
+
+.font-700 {
+  font-family: 'Amatic SC', cursive;
+  font-weight: 700;
+}
+
+.btn {
+  font-family: 'Amatic SC', cursive;
+  box-sizing: border-box;
+  height: 40px;
+  width: 140px;
+  font-size: 1.3rem;
+  font-weight: 600;
+  border-radius: 6px;
+  background-color: #FFC107;
+  color: #464232;
+  transition: all 0.4s;
+}
+
+.btn:hover {
+  background-color: #c99700;
+  color: #6b0606;
+}
+
+.dont-know {
+  background-color: inherit;
+  color: #fff;
+  border: none;
+  box-shadow: none;
+  outline: none;
+  font-size: 1.3rem;
+}
