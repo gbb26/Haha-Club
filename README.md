@@ -1,4 +1,4 @@
-# Random Jokes App
+# Haha Club - Jokes App
 
 Welcome to Haha Club -The Jokes App! This app generates a new random joke every time you click the "Tell me Another!" button or refresh the page. It's designed to bring a smile to your face with its lighthearted humor.
 
